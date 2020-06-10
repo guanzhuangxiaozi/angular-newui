@@ -32,8 +32,7 @@ import { ShippingComponent } from './shipping/shipping.component';
     ProductAlertsComponent,
     ProductDetailsComponent,
     CartComponent,
-    ShippingComponent,
-    OverlayComponent
+    ShippingComponent
   ],
   bootstrap: [ AppComponent ],
   providers: [CartService]
